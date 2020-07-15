@@ -1,0 +1,6 @@
+apache-airflow[postgres]~=1.10.11
+ipdb~=0.13.3
+pytest-helpers-namespace~=2019.1.8
+pytest-mock~=3.2.0
+pytest~=5.4.3
+pytest-docker-tools~=0.2.2

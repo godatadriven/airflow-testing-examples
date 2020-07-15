@@ -1,0 +1,8 @@
+*.egg-info
+*.pyc
+.idea/
+.python-version
+airflow.cfg
+airflow.db
+logs/
+unittests.cfg
